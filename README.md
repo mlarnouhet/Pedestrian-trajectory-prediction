@@ -1,0 +1,1 @@
+This repository contains the implementation of the social LSTM algorithm from the following paper: Social LSTM: Human Trajectory Prediction in Crowded Spaces (https://cvgl.stanford.edu/papers/CVPR16_Social_LSTM.pdf)
